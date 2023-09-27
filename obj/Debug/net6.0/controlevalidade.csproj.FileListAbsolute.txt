@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\controlevalidade\bin\Debug\net6.0\controlevalidade.exe
+C:\Users\User\source\repos\controlevalidade\bin\Debug\net6.0\controlevalidade.deps.json
+C:\Users\User\source\repos\controlevalidade\bin\Debug\net6.0\controlevalidade.runtimeconfig.json
+C:\Users\User\source\repos\controlevalidade\bin\Debug\net6.0\controlevalidade.dll
+C:\Users\User\source\repos\controlevalidade\bin\Debug\net6.0\controlevalidade.pdb
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.AssemblyInfo.cs
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.dll
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\refint\controlevalidade.dll
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.pdb
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\controlevalidade.genruntimeconfig.cache
+C:\Users\User\source\repos\controlevalidade\obj\Debug\net6.0\ref\controlevalidade.dll
